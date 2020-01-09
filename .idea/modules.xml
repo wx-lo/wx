@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HospatilController/HospatilController.iml" filepath="$PROJECT_DIR$/HospatilController/HospatilController.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospatilDao/HospatilDao.iml" filepath="$PROJECT_DIR$/HospatilDao/HospatilDao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospatilService/HospatilService.iml" filepath="$PROJECT_DIR$/HospatilService/HospatilService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HospitalBean/HospitalBean.iml" filepath="$PROJECT_DIR$/HospitalBean/HospitalBean.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hospitals.iml" filepath="$PROJECT_DIR$/Hospitals.iml" />
+    </modules>
+  </component>
+</project>
